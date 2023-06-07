@@ -18,3 +18,7 @@ The top 250 IMDb movies are extracted from the IMDb website based on ratings usi
 
 ![image](https://github.com/Serishko/data-enngineering-project/assets/58653229/6047cf2b-aa24-4ef4-8935-9d13796a2911)
 
+Check out the Tableau dashboard for visualizing the data:
+[Tableau Dashboard](https://public.tableau.com/views/imdb_dashboard_16861536566380/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
