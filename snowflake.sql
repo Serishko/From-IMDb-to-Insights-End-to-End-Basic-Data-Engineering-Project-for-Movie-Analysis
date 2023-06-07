@@ -4,8 +4,8 @@
 create or replace temporary stage imdb_stage
 file_format = (type = json)
 credentials = (
-aws_key_id = 'AKIAYL7VLA3GY3VR3X4F',
-aws_secret_key = 'LZnxWVKpvne17JxXU7VNbZedwGOPWb9Ksr3H0THT'
+aws_key_id = '',
+aws_secret_key = ''
 )
 url = 's3://imdb-json-data/imdb.json'
 
